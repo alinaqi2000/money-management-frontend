@@ -1,2 +1,3 @@
 export const GOOGLE_OAUTH_CLIENT_ID =
-  "179432129778-ku59euuhsqmd85th4q86havuu18v7d10.apps.googleusercontent.com";
+  "362542836292-ehu704o25mc2pg5dv6flchog1rb37oq1.apps.googleusercontent.com";
+export const API_URL = "https://money-management-backend.herokuapp.com/api/"
